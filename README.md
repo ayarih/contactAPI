@@ -4,7 +4,7 @@ A Flutter application for managing and interacting with device contacts through 
 
 ## Overview
 
-This project provides a Flutter-based contacts management system that allows users to access, create, update, and manage contacts on their device. Built with Flutter's cross-platform capabilities, this application works seamlessly across Android, iOS, Web, Windows, macOS, and Linux platforms.
+This project provides a Flutter-based contacts management system that allows users to access, create, update, and manage their contacts on their device. Built with Flutter's cross-platform capabilities, this application works seamlessly across Android, iOS, Web, Windows, macOS, and Linux platforms.
 
 ## Features
 
